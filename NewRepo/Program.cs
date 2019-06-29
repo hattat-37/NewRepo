@@ -10,7 +10,8 @@ namespace NewRepo
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Bad guy changed on github");
+            Console.WriteLine("New King was here");
+            Console.WriteLine("Gg");
         }
     }
 }
